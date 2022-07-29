@@ -1,0 +1,4 @@
+.carousel-item .w-100 {
+    min-width: 100% !important;
+    min-height: 295px;
+}
